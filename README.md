@@ -12,7 +12,7 @@ Template project for C++ with CMake and Conan 2.0 support.
 
 ## Conan workflow
 
-The project workflow for Conan 2.0 is listed below. See the `conan/profiles`
+The project workflow for Conan 2.0 is listed below. See the `config/conan/profiles`
 directory for a set of pre-generated profiles.
 
 ```sh
