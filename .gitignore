@@ -38,3 +38,6 @@
 
 # Build directories
 build/
+
+# CMake files
+CMakeUserPresets.json

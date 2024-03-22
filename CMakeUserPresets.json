@@ -4,6 +4,6 @@
         "conan": {}
     },
     "include": [
-        "/home/martin/dev/cpp_project_template/build/Release/generators/CMakePresets.json"
+        "/home/martin/dev/xsens-cpp/build/Release/generators/CMakePresets.json"
     ]
 }
